@@ -21,9 +21,9 @@
 <a href="https://instagram.com/aot_sc_ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aot_sc_ece" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/student chapter ece aot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="student chapter ece aot" height="30" width="40" /></a>
 </p>
-<a href="">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=scece-dev&show_icons=true&locale=en" alt="scece-dev" />
-</a>
-<a href="https://github.com/scEce-Dev/github-readme-stats">
+</div>
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=scece-dev&" alt="scece-dev" />
-</a>
+</div>
